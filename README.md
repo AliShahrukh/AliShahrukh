@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/md-shahrukh-ali/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:shahrukh.ali7860@gmail.com?subject=ConnectShahrukh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shahrukh.ali7860@gmail.com?subject=ConnectShahrukh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
 
