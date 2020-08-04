@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 <h5> Backend</h5>
 <p >
-  <img src="https://img.shields.io/badge/java5%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/java%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%2361DAFB.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <hr>
