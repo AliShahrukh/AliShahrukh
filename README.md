@@ -38,3 +38,6 @@ Here are some ideas to get you started:
 <p >
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=AliShahrukh&show_icons=true&theme=radical" alt="AliShahrukh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliShahrukh&layout=compact" alt="AliShahrukh"/></p>
