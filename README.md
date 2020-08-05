@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-<br>
 
 <h4>🌱 I'm currently learning...</h4>
 <p >
